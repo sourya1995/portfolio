@@ -1,27 +1,27 @@
 [
     {
-        "name" : "Project 1",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Python-Scalability",
+        "description" : "A collection of microservices written in Python.",
+        "link" : "https://github.com/sourya1995/PythonWeb/tree/master/Scalability"
     },
     {
-        "name" : "Project 2",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Go-URLShortener",
+        "description" : "A URL Shortener written in Go.",
+        "link" : "https://github.com/sourya1995/Go-GetEm-/tree/master/URLShortener"
     },
     {
-        "name" : "Project 3",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Node-ecommerce",
+        "description" : "An ecommerce application written in Node.js, using GraphQL and RESTful services.",
+        "link" : "https://github.com/sourya1995/NodeStuff"
     },
     {
-        "name" : "Project 4",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Java-BigDataStuff",
+        "description" : "A collection of Big Data pipelines written in Spark, Flink and Beam",
+        "link" : "https://github.com/sourya1995/BigDataStuff"
     },
     {
-        "name" : "Project 5",
-        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "link" : "https://github.com/"
+        "name" : "Coming Soon!",
+        "description" : "A web browser written in Python",
+        "link" : "hhttps://codeberg.org/sourya1995/PyBrowser"
     }
 ]

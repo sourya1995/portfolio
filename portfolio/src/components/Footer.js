@@ -7,6 +7,7 @@ const Footer = () => {
                 <h1 className="footer-heading">Connect With Me</h1>
                 <p className="footer-contact-access">Email: souryabhattacharyav3@gmail.com</p>
                 <p className="footer-contact-access">Mobile: +91 97403 75575</p>
+                <p><a href="https://www.freepik.com/free-vector/cute-cat-working-laptop-cartoon-icon-illustration_13149230.htm#query=cat%20laptop&position=3&from_view=search&track=ais">Image by catalyststuff</a> on Freepik</p>
             </div>
             <div>
                 <h1>Social Links</h1>

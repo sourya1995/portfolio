@@ -1,22 +1,22 @@
-import { FaJs, FaReact, FaHtml5, FaCss3, FaGithub, FaDocker } from "react-icons/fa";
+import { FaNodeJs, FaReact, FaRust, FaJava, FaPython, FaDocker } from "react-icons/fa";
 
 const Skills = () => {
     const skillsArr = [
         {
-            "name": 'JavaScript',
-            "icon": FaJs
+            "name": 'NodeJS',
+            "icon": FaNodeJs
         },
         {
-            "name": "HTML",
-            "icon": FaHtml5
+            "name": "Rust",
+            "icon": FaRust
         },
         {
-            "name": "CSS",
-            "icon": FaCss3
+            "name": "Java",
+            "icon": FaJava
         },
         {
-            "name": "Git",
-            "icon": FaGithub
+            "name": "Python",
+            "icon": FaPython
         },
         {
             "name": "Reactjs",
