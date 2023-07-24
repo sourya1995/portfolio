@@ -48,7 +48,7 @@ const Projects = () => {
                                                 target="_blank"
                                                 href={project.link}
                                                 rel="noreferrer"
-                                            >GitHub
+                                            >Source
                                             </a>
                                         </div>
                                     </div>
